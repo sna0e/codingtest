@@ -10,6 +10,9 @@
    - 끝 노드의 next = `None`
 3. LinkedList 는 head 노드 정보를 가진다.
    - head 는 첫번째 노드
+4. 선형 구조
+   - 용도 : 자료 꺼내고 넣기
+
 ```python
 
 class LinkedNode () :
