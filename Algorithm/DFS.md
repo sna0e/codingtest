@@ -7,7 +7,7 @@ Depth First Search
    1. 시작 노드에서 출발  
    2. 현재 방문한 노드를 visited에 추가 (재방문 방지)
    3. 현재 방문한 노드와 인접한 노드 중 not in visited 노드 방문
-   4. 2 부터 반복
+   4. ii 부터 반복
 2. O(노드 + 간선)
 3. 용도
    - 경로 탐색 (특정 조건)
@@ -75,7 +75,7 @@ def island_dfs_recursive (grid) :
             if grid[r][c] != "1" :
                 continue
 
-            count += 1
+            count += 1 # new island
             dfs_recursive(r,c)
             
     return count
