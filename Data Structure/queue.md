@@ -1,5 +1,5 @@
 # Queue
-![img.png](img_queue.png)
+![img.png](assets/img_queue.png)
 
 ## queue 구현하기
 ### key Point

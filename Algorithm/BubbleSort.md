@@ -1,5 +1,5 @@
 # Bubble Sort
-![img.png](gif_bubblesort.gif)
+![img.png](assets/gif_bubblesort.gif)
 ## Buuble Sort 구현하기
 ### Key Point
 1. 앞에서부터 순서대로 2개씩 비교해서 큰 데이터를 뒤로

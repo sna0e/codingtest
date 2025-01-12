@@ -1,6 +1,6 @@
 # BFS
 Breadth First Search
-![image](gif_BFS.gif)
+![image](assets/gif_BFS.gif)
 
 ## BFS 구현하기
 ### Key Point

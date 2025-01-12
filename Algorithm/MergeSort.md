@@ -1,5 +1,5 @@
 # Merge Sort
-![Wikipedia - Merge Sort](gif_mergesort.gif)
+![Wikipedia - Merge Sort](assets/gif_mergesort.gif)
 ## Merge Sort 구현하기
 ### Key Point
 1. 일단 쪼개기! (쪼개져 있을 수도 있음)

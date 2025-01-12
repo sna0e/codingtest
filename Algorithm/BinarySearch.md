@@ -1,5 +1,5 @@
 # Binary Search
-![img.png](img_binarysearch.png)
+![img.png](assets/img_binarysearch.png)
 ### Key Point
 1. 정렬된 배열에서, 찾는 범위를 절반씩 줄여나가면서 탐색
 2. 조건 - 배열이 정렬되어 있어야 함

@@ -1,5 +1,5 @@
 # Max Heap
-![img.png](img_maxheap.png)
+![img.png](assets/img_maxheap.png)
 ## Max Heap 구현하기
 ### Key Point
 1. 완전 이진 트리

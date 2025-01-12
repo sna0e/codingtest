@@ -1,5 +1,5 @@
 # Stack
-![img.png](img_stack.png)
+![img.png](assets/img_stack.png)
 
 ## stack 구현하기
 ### Key Point

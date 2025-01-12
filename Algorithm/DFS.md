@@ -1,6 +1,6 @@
 # DFS
 Depth First Search
-![image](webp_dfs.webp)
+![image](assets/webp_dfs.webp)
 ## DFS 구현하기
 ### Key Point
 1. 시작 노드에서 출발하여 가장 깊은 경로로 탐색, 더 이상 탐색할 경로가 없으면 이전 분기점으로 되돌아감  

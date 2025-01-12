@@ -1,5 +1,5 @@
 # Tree
-![img.png](img_tree.png)
+![img.png](assets/img_tree.png)
 ## Tree 구현하기
 ### Key Point
 1. 비선형 구조
@@ -21,7 +21,7 @@
    - parent : current idx // 2
    - height : h = log_2(N+1) - 1 => O(log N)
    - 모든 노드가 꽉 찬 완전 이진트리의 모든 Node 개수 : N = 2^(h+1) - 1
-   - e.g. ![img.png](img_tree_eg.png)
+   - e.g. ![img.png](assets/img_tree_eg.png)
       - Level 0 -> `[None, 8]`
       - Level 1 -> `[None, 8, 6, 3]`
       - Level 2 -> `[None, 8, 6, 3, 4, 2, 5]`  

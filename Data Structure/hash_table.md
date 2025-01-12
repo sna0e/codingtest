@@ -1,5 +1,5 @@
 # Hash Table
-![img.png](img_hashtable.png)
+![img.png](assets/img_hashtable.png)
 ## Hash Table 구현하기
 ### Key Point
 1. 해시함수를 이용하여 key - value 매핑 구조

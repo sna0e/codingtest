@@ -1,5 +1,5 @@
 # Selection Sort 
-![Wikipedia - Selection Sort](gif_selectionsort.gif)
+![Wikipedia - Selection Sort](assets/gif_selectionsort.gif)
 ## Selection Sort 구현하기
 ### key Point
 1. 데이터를 순회하며 가장 작은 데이터 찾기

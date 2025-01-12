@@ -1,5 +1,5 @@
 # Back Tracking
-![img.png](img_backtracking.png)
+![img.png](assets/img_backtracking.png)
 ### Key Point
 1. 필요 없는 경우를 가지치기 (pruning) 하여 O() 감소
 

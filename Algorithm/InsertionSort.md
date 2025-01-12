@@ -1,5 +1,5 @@
 # Insertion Sort
-![Wikipedia-Insertion Sort](gif_insertionsort.gif)
+![Wikipedia-Insertion Sort](assets/gif_insertionsort.gif)
 ## Insertion Sort 구현하기
 ### Key Point
 1. 맨 첫번째 요소만 정렬된 상태로 간주

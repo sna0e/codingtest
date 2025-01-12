@@ -1,5 +1,5 @@
 # Quick Sort
-![Wikipedia - Quick Sort](gif_quicksort.gif)
+![Wikipedia - Quick Sort](assets/gif_quicksort.gif)
 ## Quick Sort 구현하기
 ### Key Point
 1. Divide and Conquer 분할정복

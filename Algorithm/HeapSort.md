@@ -1,5 +1,5 @@
 # Heap Sort
-![Wikipedia - Heap Sort](gif_heapsort.gif)
+![Wikipedia - Heap Sort](assets/gif_heapsort.gif)
 ## Heap Sort 구현하기
 ### Key Point
 1. heap : 항상 최대값/최소값이 root 에 있는 complete binary tree
