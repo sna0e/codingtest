@@ -46,7 +46,7 @@ class BinaryMaxHeap :
 
         root = self.items[1]
         self.items[1] , self.items[-1] = self.items[-1] , self.items[1]
-        self.itmes.pop()
+        self.items.pop()
 
         self._percolate_down(1)
 
